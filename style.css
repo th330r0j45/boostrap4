@@ -1,0 +1,17 @@
+.reto1 .col {
+    color: var(--info);
+    background-color: var(--gray);
+    border: aliceblue 2px solid;
+}
+
+.reto2 .col {
+    color: var(--indigo);
+    background-color: var(--gray);
+    border: aliceblue 2px solid;
+}
+
+.reto3 {
+    color: var(--indigo);
+    background-color: var(--gray);
+    border: aliceblue 2px solid;
+}
